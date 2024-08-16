@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\azamb\\source\\repos\\JWT_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED070DB8-2B32-449C-9900-9B504C9E505D}|JWT_API\\JWT_API.csproj|c:\\users\\azamb\\source\\repos\\jwt_api\\jwt_api\\jwt_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{ED070DB8-2B32-449C-9900-9B504C9E505D}|JWT_API\\JWT_API.csproj|solutionrelative:jwt_api\\jwt_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED070DB8-2B32-449C-9900-9B504C9E505D}|JWT_API\\JWT_API.csproj|c:\\users\\azamb\\source\\repos\\jwt_api\\jwt_api\\controllers\\api_logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED070DB8-2B32-449C-9900-9B504C9E505D}|JWT_API\\JWT_API.csproj|solutionrelative:jwt_api\\controllers\\api_logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED070DB8-2B32-449C-9900-9B504C9E505D}|JWT_API\\JWT_API.csproj|c:\\users\\azamb\\source\\repos\\jwt_api\\jwt_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED070DB8-2B32-449C-9900-9B504C9E505D}|JWT_API\\JWT_API.csproj|solutionrelative:jwt_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED070DB8-2B32-449C-9900-9B504C9E505D}|JWT_API\\JWT_API.csproj|c:\\users\\azamb\\source\\repos\\jwt_api\\jwt_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED070DB8-2B32-449C-9900-9B504C9E505D}|JWT_API\\JWT_API.csproj|solutionrelative:jwt_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JWT_API.http",
+              "DocumentMoniker": "C:\\Users\\azamb\\source\\repos\\JWT_API\\JWT_API\\JWT_API.http",
+              "RelativeDocumentMoniker": "JWT_API\\JWT_API.http",
+              "ToolTip": "C:\\Users\\azamb\\source\\repos\\JWT_API\\JWT_API\\JWT_API.http",
+              "RelativeToolTip": "JWT_API\\JWT_API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-16T22:04:53.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\azamb\\source\\repos\\JWT_API\\JWT_API\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\azamb\\source\\repos\\JWT_API\\JWT_API\\appsettings.json",
+              "RelativeToolTip": "JWT_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T22:03:41.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Api_LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\azamb\\source\\repos\\JWT_API\\JWT_API\\Controllers\\Api_LoginController.cs",
+              "RelativeDocumentMoniker": "JWT_API\\Controllers\\Api_LoginController.cs",
+              "ToolTip": "C:\\Users\\azamb\\source\\repos\\JWT_API\\JWT_API\\Controllers\\Api_LoginController.cs",
+              "RelativeToolTip": "JWT_API\\Controllers\\Api_LoginController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T20:03:27.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\azamb\\source\\repos\\JWT_API\\JWT_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "JWT_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\azamb\\source\\repos\\JWT_API\\JWT_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "JWT_API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:46:10.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
